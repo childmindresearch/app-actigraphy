@@ -1,4 +1,5 @@
 """Module for preprocessing actigraphy data."""
+
 import argparse
 import logging
 import pathlib

@@ -1,4 +1,5 @@
 """Unit tests for the __main__ module."""
+
 from pytest_mock import plugin
 
 from actigraphy import __main__

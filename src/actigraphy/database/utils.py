@@ -1,4 +1,5 @@
 """Standard CRUD operations for the database."""
+
 import datetime
 import logging
 import pathlib

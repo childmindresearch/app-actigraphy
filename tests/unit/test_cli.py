@@ -1,4 +1,5 @@
 """Tests for the cli module."""
+
 # pylint: disable=protected-access
 import argparse
 import logging

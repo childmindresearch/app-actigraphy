@@ -1,4 +1,5 @@
 """A module for interacting with the SQL database."""
+
 import logging
 import pathlib
 from collections import abc

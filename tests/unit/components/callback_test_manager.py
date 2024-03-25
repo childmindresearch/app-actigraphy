@@ -1,4 +1,5 @@
 """Initialize the callback manager for unit tests."""
+
 from collections.abc import Callable
 from typing import Any
 

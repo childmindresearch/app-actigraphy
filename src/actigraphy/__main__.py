@@ -1,4 +1,5 @@
 """Entrypoints for the Actigraphy app."""
+
 import logging
 
 from actigraphy import app

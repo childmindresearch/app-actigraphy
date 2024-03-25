@@ -4,6 +4,7 @@ The graph component contains a graph range sliders for use in the Actigraphy
 app. The graph displays the sensor angle and arm movement data for a given day.
 The range slider is used to select a sleep window for the given day.
 """
+
 import datetime
 import json
 import logging

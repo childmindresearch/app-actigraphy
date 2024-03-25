@@ -1,4 +1,5 @@
 """Unit tests for the finished_checkbox module."""
+
 from sqlalchemy import orm
 
 from actigraphy.database import models

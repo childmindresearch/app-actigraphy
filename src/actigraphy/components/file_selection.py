@@ -3,6 +3,7 @@
 The file selection component contains an input box for the evaluator's name, and
 dropdown menu for selecting a subject.
 """
+
 import logging
 
 import dash

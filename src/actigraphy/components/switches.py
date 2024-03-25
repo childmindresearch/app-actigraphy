@@ -7,6 +7,7 @@ indicate whether the participant has more than 2 hours of missing sleep data.
 The third switch is used to indicate whether the user needs to review the sleep
 data for a particular night.
 """
+
 import logging
 
 import dash

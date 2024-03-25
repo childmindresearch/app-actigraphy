@@ -3,6 +3,7 @@
 The checklist allows the user to indicate whether they are done with the
 current participant and would like to proceed to the next one.
 """
+
 import logging
 
 import dash
