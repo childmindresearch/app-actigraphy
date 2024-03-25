@@ -1,4 +1,5 @@
 """Tests for the database module."""
+
 import sqlalchemy
 
 from actigraphy.database import database

@@ -1,4 +1,5 @@
 """Tests the core utilities."""
+
 import datetime
 
 from actigraphy.core import utils

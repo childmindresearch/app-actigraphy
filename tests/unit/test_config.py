@@ -1,4 +1,5 @@
 """Unit tests for the config module."""
+
 import logging
 
 from pytest_mock import plugin

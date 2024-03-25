@@ -1,4 +1,5 @@
 """Main app setup for the Actigraphy app."""
+
 import logging
 
 import dash

@@ -1,4 +1,5 @@
 """Contains the app settings."""
+
 import datetime
 import functools
 import logging

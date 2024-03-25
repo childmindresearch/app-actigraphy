@@ -1,4 +1,5 @@
 """Tests for the IO module."""
+
 # pylint: disable=protected-access
 from actigraphy.io import ggir_files
 

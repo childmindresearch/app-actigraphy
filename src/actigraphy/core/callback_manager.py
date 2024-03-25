@@ -7,6 +7,7 @@ the Dash app itself.
 At the bottom of this file, the global_manager object is created. This object
 is used to register callbacks across multiple files.
 """
+
 import dataclasses
 import inspect
 import logging

@@ -1,4 +1,5 @@
 """Utility functions for the actigraphy package."""
+
 import datetime
 import logging
 import os

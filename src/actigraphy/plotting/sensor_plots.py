@@ -1,4 +1,5 @@
 """Module for all plotting functions."""
+
 import bisect
 import datetime
 import logging

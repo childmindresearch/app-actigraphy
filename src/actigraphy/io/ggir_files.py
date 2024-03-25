@@ -1,4 +1,5 @@
 """Functions for reading and writing minor files to a format accepted by GGIR."""
+
 import csv
 import dataclasses
 import datetime

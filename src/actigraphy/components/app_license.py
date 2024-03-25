@@ -1,4 +1,5 @@
 """License information for the application."""
+
 from dash import html
 
 

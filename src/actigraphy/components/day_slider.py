@@ -1,4 +1,5 @@
 """Dash HTML div for a slider component for selecting days."""
+
 import datetime
 import itertools
 import logging

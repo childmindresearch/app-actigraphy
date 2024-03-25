@@ -1,4 +1,5 @@
 """Tests for the database models."""
+
 import datetime
 
 import pytest

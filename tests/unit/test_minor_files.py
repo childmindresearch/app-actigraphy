@@ -1,4 +1,5 @@
 """Test the ggir_files module."""
+
 import pathlib
 
 from actigraphy.io import ggir_files

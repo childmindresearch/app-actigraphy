@@ -1,4 +1,5 @@
 """Unit tests for the plotting module."""
+
 import datetime
 
 from plotly import graph_objects

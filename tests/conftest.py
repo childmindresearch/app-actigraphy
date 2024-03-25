@@ -1,4 +1,5 @@
 """Pytest configuration file."""
+
 import datetime
 from collections.abc import Generator
 

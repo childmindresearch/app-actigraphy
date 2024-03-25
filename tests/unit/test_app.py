@@ -1,4 +1,5 @@
 """Unit tests for the app module."""
+
 from unittest import mock
 
 import dash_bootstrap_components

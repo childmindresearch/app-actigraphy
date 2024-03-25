@@ -1,4 +1,5 @@
 """Database models for the actigraphy database."""
+
 import datetime
 
 import sqlalchemy

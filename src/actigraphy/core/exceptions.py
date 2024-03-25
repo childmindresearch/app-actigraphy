@@ -1,4 +1,5 @@
 """Exceptions for actigraphy."""
+
 import logging
 from typing import Any
 
