@@ -36,7 +36,7 @@ jobs:
           images: cmidair/actigraphy
 
       - name: Build and push Docker image
-        uses: docker/build-push-action@v5.1.0
+        uses: docker/build-push-action@v5.3.0
         with:
           platforms: linux/amd64,linux/arm64
           context: .
