@@ -42,7 +42,7 @@ def day_slider(participant_name: str, max_count: int) -> html.Div:
                 0,
                 max_count - 1,
                 1,
-                marks={f"{i}": f"{i+1}" for i in range(max_count)},
+                marks={f"{i}": f"{i + 1}" for i in range(max_count)},
                 value=0,
                 id="day_slider",
             ),
