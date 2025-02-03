@@ -32,6 +32,6 @@ def test_update_switches(
 
     actual_status_flags = update_switches_callback(0, file_manager)
 
-    assert (
-        actual_status_flags == expected_status_flags
-    ), "update_switches did not return the expected status flags"
+    assert actual_status_flags == expected_status_flags, (
+        "update_switches did not return the expected status flags"
+    )

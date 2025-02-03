@@ -161,7 +161,7 @@ def create_graph(
     non_wear = [point.non_wear for point in included_data_points]
 
     title_day = (
-        f"Day {day_index+1}:"
+        f"Day {day_index + 1}:"
         f"{included_data_points[0].timestamp.strftime('%A, %d %B %Y')}"
     )  # Frontend uses 1-indexed days.
 
